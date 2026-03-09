@@ -251,7 +251,7 @@ forest-cover-classification/
 - LinkedIn: www.linkedin.com/in/omar-elnagar00
 - Email: omar00alnagar@gmail.com
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE] file for details.
 
@@ -259,7 +259,6 @@ This project is licensed under the MIT License - see the [LICENSE] file for deta
 
 - UCI Machine Learning Repository for the Covertype dataset
 - Scikit-learn and XGBoost development teams
-- [Your Company/Internship Program] for the opportunity
 
 ## Contact
 
